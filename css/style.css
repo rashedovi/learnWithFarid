@@ -2,16 +2,6 @@
     margin: 0;
     padding: 0;
 }
-header{
-
-}
-.social-top{
-    /* display: flex; */
-}
-.call-us{
-    /* width: 40%;
-    justify-content: flex-start; */
-}
 .call-us a{
     font-size: 14px;
     color: #afb0b4;
@@ -78,9 +68,6 @@ header hr{
 .carousel-inner{
     height: auto;
     position: relative;
-}
-.carousel-item{
-    
 }
 .carousel-overlay{
     background: rgba(58, 53, 68, 0.8);
@@ -150,9 +137,6 @@ header hr{
     font-weight: 700;    
     color: #6f7478;
 }
-.feature-content{
-
-}
 .feature-icon{
     padding: 5px 0;
 }
@@ -171,9 +155,6 @@ header hr{
 }
 .feature-icon a i{    
     font-size: 30px;    
-}
-.feature-detail{
-
 }
 .feature-detail h3{    
     font-size: 16px;    
@@ -248,9 +229,6 @@ header hr{
 .services-content a i{    
     font-size: 30px;    
 }
-.feature-detail{
-
-}
 .services-hover h3{
     font-size: 16px;
     font-weight: 700;
@@ -319,9 +297,6 @@ header hr{
 }
 .courses-content .container{
     margin-left: 10px;
-}
-.courses-content img{
-    
 }
 .courses-content h3{
     font-size: 18px;
@@ -403,9 +378,6 @@ header hr{
 
 .our-clients{
     padding: 80px 0 50px 0;
-}
-.clients-header{
-
 }
 .clients-header h2{
     font-size: 25px;   
@@ -527,7 +499,6 @@ footer{
     max-width: 100%;
     margin-top: 5px;
 }
-
 .footer-courses p{    
     font-size: 13px;
     margin: 5px 0;    
@@ -535,9 +506,6 @@ footer{
 .footer-courses h3{    
     font-size: 16px;
     color: #fff;    
-}
-.footer-tags{
-
 }
 .footer-tags a{
     font-size: 13px;
@@ -577,15 +545,6 @@ footer{
 .footer-social .fa-instagram{
     background: #F7659C;
 }
-.footer-tweets{
-
-}
-.footer-tweets h2{
-    
-}
-.footer-tweets p{
-    
-}
 .footer-tweets p span{
     color: #EF4F43;
 }
@@ -598,9 +557,6 @@ footer{
     background: #262834;
     padding: 25px 0;
 }
-.copy-right{
-
-}
 .copy-right p{   
     font-size: 14px;   
     color: #cbcbcd;
@@ -611,9 +567,6 @@ footer{
 }
 .footer-nav{
     text-align: right;
-}
-.footer-nav ul{
-    
 }
 .footer-nav ul li{
     display: inline-block;
