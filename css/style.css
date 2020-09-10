@@ -288,10 +288,10 @@ header hr{
     border-radius: 5px;
     padding-bottom: 20px;
 }
-.img-fluid {
+.courses-content .img-fluid {
     max-width: 100%;
     height: auto;
-    width: 100%;
+    width: 100% !important;
 }
 .courses-content .container{
     margin-left: 10px;
