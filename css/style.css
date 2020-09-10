@@ -109,8 +109,10 @@ header hr{
 }
 .carousel-indicators li{
     width: 17px;
-    height: 5px;
+    height: 7px;
     background: #858b98;
+    border-top: inherit !important;
+    border-bottom: inherit !important;
 }
 .carousel-indicators li.active{
     background: #df4a43;
