@@ -1,0 +1,130 @@
+
+
+@media all and (max-width: 991px){
+    .call-us a{
+        border-left: inherit;
+        padding: 8px 5px;
+    }
+    .borderrt{
+        border-right: inherit;
+    }
+    .social-top-left{
+        text-align: inherit;
+    }
+    .social-top-left a{
+        border-left: inherit;
+        padding: 5px 0 5px 10px;
+    }
+    .feature-content{
+        text-align: center;
+    }
+    .feature-icon {
+        margin-left: 0;
+    }
+    .feature-detail .line-inner {
+        margin: 15px auto;
+    }
+    .carousel-overlay img{
+        margin: 15px 0 15px 0;
+        max-width: 10% !important;
+    }
+    .carousel-overlay h2{
+        font-size: 35px;
+    }
+    .carousel-overlay p{
+        font-size: 13px;
+    }
+    .footer-nav ul{
+        padding-left: 0 !important;
+    }
+    
+}
+@media all and (max-width: 767px){
+    .call-us a{
+        border-left: inherit;
+    }
+    .borderrt{
+        border-right: inherit;
+    }
+    .social-top-left{
+        text-align: inherit;
+    }
+    .social-top-left a{
+        border-left: inherit;
+        padding: 5px 0 5px 10px;
+    }
+    .carousel-inner{
+        /* height: 350px; */
+    }
+    .our-features {
+        padding: 70px 0 10px 0;
+    }
+    .our-services .carousel-inner {
+        padding-bottom: 40px;
+    }
+    .our-courses .carousel-inner {
+        padding-bottom: 20px;
+    }
+    .testimonial .carousel-inner {
+        padding-bottom: 0px;
+    }
+    .our-clients {
+        padding: 60px 0 10px 0;
+    }
+    .footer-top {
+        padding-bottom: 0;
+    }
+    .footer-bottom {
+        text-align: center;
+    }
+    .footer-nav {
+        text-align: center;
+    }
+    
+    
+}
+
+@media all and (max-width: 576px){
+    .carousel-inner{
+        /* height: 180px; */
+    }
+    .feature-icon {
+        margin-left: 0;
+    }
+    .our-services {
+        padding: 50px 0;
+    }
+    .our-courses {
+        padding: 40px 0;
+    }
+    .our-courses .carousel-inner {
+        padding-bottom: 0px;
+    }
+    .test-content {
+        padding: 5px 0;
+    }
+    .test-content p {
+        width: 100%;
+    }
+    .our-clients .owl-carousel .owl-nav {
+        top: -100px;
+    }
+    .footer-nav{
+        text-align: inherit;
+    }
+    .footer-nav ul li a{
+        padding: 0 0 0 10px !important;
+    }
+    .our-courses .owl-dots{
+        display: none;
+    }
+    .our-services .owl-dots{
+        display: none;
+    }
+    footer {
+        padding: 50px 0 0 0;
+    }
+    .footer-bottom {
+        text-align: center;
+    }
+}
